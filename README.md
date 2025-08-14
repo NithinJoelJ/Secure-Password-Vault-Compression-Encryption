@@ -19,16 +19,16 @@ Built using **Python** and **Streamlit**.
 ---
 
 ## ⚙️ Installation
-1. Clone the repository
+**1. Clone the repository**
 ```bash
 git clone https://github.com/your-username/Secure-Password-Vault-Compression-Encryption.git
 cd Secure-Password-Vault-Compression-Encryption
 
-2.Run the Application
+**Run the Application**
 streamlit run main.py
 
 
-🖥️ Usage
+**🖥️ Usage**
 	•	Add a new password with optional notes.
 	•	Select a compression method before encryption.
 	•	View analytics for storage savings.
