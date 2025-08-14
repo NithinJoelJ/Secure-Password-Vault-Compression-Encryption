@@ -19,7 +19,9 @@ Built using **Python** and **Streamlit**.
 ---
 
 ## ⚙️ Installation
-1. Clone the repository
+
+
+Clone the repository
 ```bash
 git clone https://github.com/your-username/Secure-Password-Vault-Compression-Encryption.git
 cd Secure-Password-Vault-Compression-Encryption
