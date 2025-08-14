@@ -24,7 +24,7 @@ Built using **Python** and **Streamlit**.
 git clone https://github.com/your-username/Secure-Password-Vault-Compression-Encryption.git
 cd Secure-Password-Vault-Compression-Encryption
 
-**Run the Application**
+**2. Run the Application**
 streamlit run main.py
 
 
