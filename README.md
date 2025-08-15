@@ -53,7 +53,7 @@ Space Saved: 124 bytes
 Pull requests are welcome. Please open an issue to discuss any major changes.
 
 👨‍💻 Author
-J. Nithin Joel
+J. Nithin Joel, Raghul, Raashmika, Vishnu, N  L Dev Aadhitya 
 ---
 If you want, I can also **design a simple GitHub repository cover banner** (with a lock + compression icon + “Secure Password Vault”) so the repo looks professional.  
 Do you want me to make that banner for you?
